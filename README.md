@@ -18,7 +18,7 @@ This repository contains a Jupyter Notebook for classifying wine types using mac
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.11
 - Jupyter Notebook
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
